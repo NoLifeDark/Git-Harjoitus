@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 
 Console.WriteLine("Minkälainen kärki (puu, teräs vai timantti)? ");
 string nuoliKärki = Console.ReadLine().ToLower();
@@ -15,16 +16,17 @@ Console.WriteLine("Nuolesi hinta on " + nuoli.PalautaHinta() + " kultaa");
 
 public class Nuoli
 {
-    string nuoliPera;
-    string nuoliKärki;
-    float nuoliPituus;
-    double nuoliHinta;
+    private string nuoliPera { get; set; }
+    private string nuoliKärki { get; set; }
+    private float nuoliPituus { get; set; }
+    private double nuoliHinta { get; set; }
 
     public Nuoli(string NUOLIPERA, string NUOLIKARKI, float NUOLIPITUUS)
     {
         nuoliPera = NUOLIPERA;
         nuoliKärki = NUOLIKARKI;
         nuoliPituus = NUOLIPITUUS;
+
         if (nuoliPera == "puu")
         {
             nuoliHinta = 3;
