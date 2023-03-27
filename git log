@@ -1,0 +1,37 @@
+[33mcommit a9867c5f07cbfb8217231e55e6b8dfeac13bcea4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: NoLifeDark <s2101049@edu.bc.fi>
+Date:   Thu Jan 19 12:47:25 2023 +0200
+
+    viesti tähän
+
+[33mcommit 7df000e29249d369a7423af532bf7c3d48b71528[m
+Author: NoLifeDark <s2101049@edu.bc.fi>
+Date:   Thu Jan 19 12:39:29 2023 +0200
+
+    lisäys
+
+[33mcommit 7eb66b4a9af3662f4a24b0cd70fa667b7a8d1467[m
+Author: NoLifeDark <s2101049@edu.bc.fi>
+Date:   Thu Jan 19 12:26:10 2023 +0200
+
+    Revert "Tehtävä saatu valmiiksi"
+    
+    This reverts commit 4b4fd7d87644e19c07f4dde2270f2217027eb3d1.
+
+[33mcommit 4196f92dbd9bc4c4e9cc704108ea5c64dbd8b200[m
+Author: NoLifeDark <s2101049@edu.bc.fi>
+Date:   Thu Jan 19 12:25:19 2023 +0200
+
+    teksti lisätty
+
+[33mcommit 456d3d1627aa572e22dd9e7065ceeed221469fb7[m
+Author: NoLifeDark <s2101049@edu.bc.fi>
+Date:   Thu Jan 19 12:21:26 2023 +0200
+
+    Hello World
+
+[33mcommit 4b4fd7d87644e19c07f4dde2270f2217027eb3d1[m
+Author: NoLifeDark <s2101049@edu.bc.fi>
+Date:   Fri Jan 13 11:54:38 2023 +0200
+
+    Tehtävä saatu valmiiksi

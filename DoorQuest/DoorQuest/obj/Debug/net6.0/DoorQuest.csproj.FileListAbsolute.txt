@@ -1,0 +1,15 @@
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\bin\Debug\net6.0\DoorQuest.exe
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\bin\Debug\net6.0\DoorQuest.deps.json
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\bin\Debug\net6.0\DoorQuest.runtimeconfig.json
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\bin\Debug\net6.0\DoorQuest.dll
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\bin\Debug\net6.0\DoorQuest.pdb
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.csproj.AssemblyReference.cache
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.AssemblyInfoInputs.cache
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.AssemblyInfo.cs
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.csproj.CoreCompileInputs.cache
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.dll
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\refint\DoorQuest.dll
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.pdb
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\DoorQuest.genruntimeconfig.cache
+C:\Users\s2101049\source\repos\DoorQuest\DoorQuest\obj\Debug\net6.0\ref\DoorQuest.dll
