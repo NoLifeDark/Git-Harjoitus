@@ -16,10 +16,10 @@ Console.WriteLine("Nuolesi hinta on " + nuoli.PalautaHinta() + " kultaa");
 
 public class Nuoli
 {
-    private string nuoliPera { get; set; }
-    private string nuoliKärki { get; set; }
-    private float nuoliPituus { get; set; }
-    private double nuoliHinta { get; set; }
+    public string nuoliPera { get; set; }
+    public string nuoliKärki { get; set; }
+    public float nuoliPituus { get; set; }
+    public double nuoliHinta { get; set; }
 
     public Nuoli(string NUOLIPERA, string NUOLIKARKI, float NUOLIPITUUS)
     {
