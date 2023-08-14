@@ -1,0 +1,15 @@
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\bin\Debug\net6.0\Lohikäärme.exe
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\bin\Debug\net6.0\Lohikäärme.deps.json
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\bin\Debug\net6.0\Lohikäärme.runtimeconfig.json
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\bin\Debug\net6.0\Lohikäärme.dll
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\bin\Debug\net6.0\Lohikäärme.pdb
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.csproj.AssemblyReference.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.AssemblyInfoInputs.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.AssemblyInfo.cs
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.csproj.CoreCompileInputs.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.dll
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\refint\Lohikäärme.dll
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.pdb
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\Lohikäärme.genruntimeconfig.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Lohikäärme\obj\Debug\net6.0\ref\Lohikäärme.dll

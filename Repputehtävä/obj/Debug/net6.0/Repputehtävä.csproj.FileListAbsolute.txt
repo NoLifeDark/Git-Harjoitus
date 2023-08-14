@@ -1,0 +1,15 @@
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\bin\Debug\net6.0\Repputehtävä.exe
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\bin\Debug\net6.0\Repputehtävä.deps.json
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\bin\Debug\net6.0\Repputehtävä.runtimeconfig.json
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\bin\Debug\net6.0\Repputehtävä.dll
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\bin\Debug\net6.0\Repputehtävä.pdb
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.AssemblyInfo.cs
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.dll
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\refint\Repputehtävä.dll
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.pdb
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\Repputehtävä.genruntimeconfig.cache
+C:\Users\s2101049\OneDrive - Business College Helsinki\Documents\GitHub\GitTehtävät\Repputehtävä\obj\Debug\net6.0\ref\Repputehtävä.dll

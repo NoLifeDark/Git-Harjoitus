@@ -1,6 +1,14 @@
 ﻿using System;
 using System.Dynamic;
 
+Console.WriteLine("Valitse nuolesi (1-4): ");
+
+Console.WriteLine("1. Eliittinuoli");
+Console.WriteLine("2. Aloittelijanuoli");
+Console.WriteLine("3. Perusnuoli");
+Console.WriteLine("4. Luo oma");
+string valinta = int.Parse(Console.ReadLine());
+
 Console.WriteLine("Minkälainen kärki (puu, teräs vai timantti)? ");
 string nuoliKärki = Console.ReadLine().ToLower();
 
