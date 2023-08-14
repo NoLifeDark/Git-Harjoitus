@@ -2,44 +2,51 @@
 
 class Tavara
 {
+    public string Nimi { get; }
     public double Paino { get; }
     public double Tilavuus { get; }
 
-    public Tavara(double paino, double tilavuus)
+    public Tavara(String Nimi, double paino, double tilavuus)
     {
+        this.Nimi = Nimi;
         Paino = paino;
         Tilavuus = tilavuus;
+    }
+
+    public override string ToString()
+    {
+        return Nimi;
     }
 }
 
 class Nuoli : Tavara
 {
-    public Nuoli() : base(0.1, 0.05) { }
+    public Nuoli() : base("Nuoli", 0.1, 0.05) { }
 }
 
 class Jousi : Tavara
 {
-    public Jousi() : base(1, 4) { }
+    public Jousi() : base("Jousi", 1, 4) { }
 }
 
 class Köysi : Tavara
 {
-    public Köysi() : base(1, 1.5) { }
+    public Köysi() : base("Köysi", 1, 1.5) { }
 }
 
 class Vesi : Tavara
 {
-    public Vesi() : base(2, 2) { }
+    public Vesi() : base("Vesi", 2, 2) { }
 }
 
 class RuokaAnnos : Tavara
 {
-    public RuokaAnnos() : base(1, 0.5) { }
+    public RuokaAnnos() : base("RuokaAnnos", 1, 0.5) { }
 }
 
 class Miekka : Tavara
 {
-    public Miekka() : base(5, 3) { }
+    public Miekka() : base("Miekka", 5, 3) { }
 }
 
 class Reppu
@@ -82,6 +89,24 @@ class Reppu
         Console.WriteLine($"Repun tilavuus: {repunTilavuus}/{maxTilavuus}");
         Console.WriteLine($"Jäljellä oleva kapasiteetti: {maxTavaraMaara - tavaroidenMaara} tavaraa, {maxKantoPaino - repunPaino} painoyksikköä, {maxTilavuus - repunTilavuus} tilavuusyksikköä\n");
     }
+
+    public override string ToString()
+    {
+        if (tavaroidenMaara== 0)
+        {
+            return "Reppu on tyhjä!";
+        }
+        else
+        {
+            string sisalto = "Repussa on seuraavat tavarat: ";
+            for (int i = 0; i < tavaroidenMaara - 1; i++)
+            {
+                sisalto += tavarat[i].ToString() + ",";
+            }
+            sisalto += tavarat[tavaroidenMaara - 1].ToString();
+            return sisalto;
+        }
+    }
 }
 
 class Program
@@ -89,6 +114,8 @@ class Program
     static void Main(string[] args)
     {
         Reppu reppu = new Reppu(maxTavaraMaara: 10, maxKantoPaino: 15, maxTilavuus: 20);
+
+        Console.WriteLine(reppu.ToString());
 
         while (true)
         {
