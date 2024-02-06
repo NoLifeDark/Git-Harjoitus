@@ -1,0 +1,14 @@
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\bin\Debug\net6.0\Olio-harjoitus.exe
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\bin\Debug\net6.0\Olio-harjoitus.deps.json
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\bin\Debug\net6.0\Olio-harjoitus.runtimeconfig.json
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\bin\Debug\net6.0\Olio-harjoitus.dll
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\bin\Debug\net6.0\Olio-harjoitus.pdb
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.AssemblyInfoInputs.cache
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.AssemblyInfo.cs
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.dll
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\refint\Olio-harjoitus.dll
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.pdb
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\Olio-harjoitus.genruntimeconfig.cache
+C:\Users\phamj\Documents\Peliprojektit\Olio-harjoitus\Olio-harjoitus\obj\Debug\net6.0\ref\Olio-harjoitus.dll
